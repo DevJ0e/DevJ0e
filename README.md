@@ -2,7 +2,7 @@
 
 
 
-<p>I'm a computer scientist with interests in varying technologies, mainly used to working with Front End web technologies and Designing Graphics.
+<p>I'm a computer science student current finishing my HBsc at Lakehead University with interests in varying technologies, mainly used to working with Front End web technologies and Designing Graphics.
 I'm looking to learn more about Cloud technologies,  and Data analytics.
 I'm also currently doing my HBsc in Computer Science
 </p>
