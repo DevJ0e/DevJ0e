@@ -3,7 +3,7 @@
 
 
 <p>I'm a Front End Web Developer, Graphic Designer, and  software developer.
-I'm also currently doing my HBsc in Computer Scence and currently passionate about cloud computingm, Progressive Web Apps, flask, Machine Learning, NLP, and data mangagement. 
+I'm also currently doing my HBsc in Computer Science and currently passionate about cloud computing, Progressive Web Apps, flask, Machine Learning, NLP, and data mangagement. 
 </p>
 
 - 🔭 I’m currently working on GCP.
