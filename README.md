@@ -11,7 +11,7 @@ I'm looking to learn more about Cloud technologies,  and Data analytics.
 - 👯 I’m looking to collaborate with @dathanki on developing a Unity game.
 
 - 📫 How to find me: 
-  - 📑 [LikedIn]()
+  - 📑 [LikedIn](www.linkedin.com/in/josepholapade)
   - 📩 [Email](jolapade@lakeheadu.ca)
   - 📄  [Personal Website](https://josepholapade.com)
   
